@@ -1,0 +1,23 @@
+{
+  "name": "compoundfinance_v01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compoundFinance.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panteo92/Compound-DApp.git"
+  },
+  "author": "Matteo Pandolfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panteo92/Compound-DApp/issues"
+  },
+  "homepage": "https://github.com/panteo92/Compound-DApp#readme"
+}
